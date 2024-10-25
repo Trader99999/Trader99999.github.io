@@ -10,3 +10,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  docs:
+    # test
+    - title: "Side bar"
+      children:
+        - title: "KRX"
+        - title: "KOSPI"
+        - title: "KOSDAQ"
+        - title: "NASDAQ"
+        - title: "S&P500"
